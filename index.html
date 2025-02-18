@@ -105,7 +105,7 @@
       loadingText.style.display = 'block';
       const keyValue = input.value;
       try {
-        const response = await fetch(`http://${urlNumber}/1/api.php?qq=${qqNumber}&key=${keyValue}`);
+        const response = await fetch(`http://${urlNumber}/yzwab/api.php?qq=${qqNumber}&key=${keyValue}`);
         const km = await response.text();
         let data;
         try {
