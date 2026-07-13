@@ -1,1 +1,1 @@
-{"success":true,"message":"私人定制By:刘一手","license":{"activated":true,"expiresAt":"2029-06-23T14:58:46.291Z"}}
+{"success":true,"message":"私人定制By","license":{"activated":true,"expiresAt":"2026-07-23T14:58:46.291Z"}}
